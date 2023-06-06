@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    text-align:center;
+
+}
+#tryid{
+    font-family:"Castellar";
+    font-weight:900;/*digree if weight thikness*/
+    line-height:50px;/*digree of spece between lines*/
+    
+}
+h1{
+    color: red;
+}
